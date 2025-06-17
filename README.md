@@ -1,17 +1,10 @@
 ## ◇────── MATRIX SSH MANAGER ───────◇
 
-ㅤ
-<p align="left">
-  <a href="" rel="noopener">
- <img width=550px height=550px src="https://github.com/AVEGAH/AVEGAH/blob/main/photo_2024-04-06_05-33-25.jpg?raw=true?raw=true" alt="logo"></a>
-</p>
-
-##
 
 ___Update System Packages and Install SCRIPT___
 
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/MAPTECHGH-DEV/MATRIX-SSH-MANAGER/main/hehe; chmod 777 hehe;./hehe
+apt-get update -y && apt-get upgrade -y && wget https://raw.githubusercontent.com/Matrix1999/MATRIX-SSH-PRO-SCRIPT/main/hehe && chmod 777 hehe && ./hehe
 
 ```
 
